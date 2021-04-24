@@ -74,7 +74,7 @@ for i in range(len(asignaturas)):
     print("En" + asignaturas[i] + "has sacado: " + notas[i])
     
     
-# 5.- Escribir un programa que implemente una agenda. En la agenda se podrán guardar nombres y números de teléfono. El programa nos dará el siguiente menú: Añadir/modificar: Nos pide un nombre. Si el nombre se encuentra en la agenda, debe mostrar el teléfono y, opcionalmente, permitir modificarlo si no es correcto. Si el nombre no se encuentra, debe permitir ingresar el teléfono correspondiente. Buscar: Nos pide una cadena de caracteres, y nos muestras todos los contactos cuyos nombres comiencen por dicha cadena. Borrar: Nos pide un nombre y si existe nos preguntará si queremos borrarlo de la agenda. Listar: Nos muestra todos los contactos de la agenda.Implementar el programa con una lista.
+# 7.- Escribir un programa que implemente una agenda. En la agenda se podrán guardar nombres y números de teléfono. El programa nos dará el siguiente menú: Añadir/modificar: Nos pide un nombre. Si el nombre se encuentra en la agenda, debe mostrar el teléfono y, opcionalmente, permitir modificarlo si no es correcto. Si el nombre no se encuentra, debe permitir ingresar el teléfono correspondiente. Buscar: Nos pide una cadena de caracteres, y nos muestras todos los contactos cuyos nombres comiencen por dicha cadena. Borrar: Nos pide un nombre y si existe nos preguntará si queremos borrarlo de la agenda. Listar: Nos muestra todos los contactos de la agenda.Implementar el programa con una lista.
 
 agenda = {}
 while True:
